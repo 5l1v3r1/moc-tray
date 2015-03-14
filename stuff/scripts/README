@@ -1,0 +1,6 @@
+Here goes scripts that are non essential for running or are not strictly related
+to moc-tray.
+
+rip-gtk.pl - wrapper for streamripper, allows to quickly fetch currently played
+             stream. Uses mocp, streamripper and gtk2-perl. Rename the value of
+             $dl_dir to choose Your desired directory for downloaded music.

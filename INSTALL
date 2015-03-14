@@ -1,0 +1,2 @@
+to install moc-tray edit Makefile to Your likening and issue following comand:
+ make install

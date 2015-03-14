@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=moc-tray
+Comment=simple tray icon for music on console
+Exec=moc-tray
+Icon=moc-tray.png
+Terminal=false
+StartupNotify=false
+Categories=GTK;Audio;Player;AudioVideo;
+Type=Application

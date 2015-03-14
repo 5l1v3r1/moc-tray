@@ -1,0 +1,35 @@
+*** moc-tray Revision History ***
+ * 0.4
+    - switched config file from Storable to gkey file parser
+    - added lockfile, so no more than one instance of moc-tray can be run
+    - moc-tray from now on has codenames [;
+    - added "kill moc server" button
+    - help window is now a TextView widget instead of a Label
+    - added tearoff menu item
+    - fixed .desktop file
+    - added experimental playlists support
+    - added stuff directory
+    - other minor fixes
+ * 0.3
+    - added configuration dialog
+    - help and about moved to Preferences dialog
+    - added preferences dialog
+    - config file is no longer plain text
+    - if term_cmd failure no longer causes moc-tray failure
+    - added few msgdialogs for displaying warnings
+    - modified pod
+    - blah blah blah
+ * 0.2.1
+    - added gnome-terminal support #2
+    - fixed .moc-tray concentation #1
+    - help window has bigger initial size
+    - parsing config file now less fscked
+ * 0.2
+    - New config file layout
+    - New options (--exit-moc and --start-moc)
+    - Added "Help" menu item
+    - "Info" menu item doesn't spawn moc server anymore
+    - Help text moved from heredoc to pod
+    - some other unimportant stuff
+ * 0.1
+    - Initial release
